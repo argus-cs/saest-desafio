@@ -1,6 +1,6 @@
 # SAEST Selections
 
-Demo online: https://argus-cs.github.io/desafio-saest/
+Demo online: https://argus-cs.github.io/saest-desafio/
 
 ## Instruções
 
