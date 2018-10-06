@@ -1,0 +1,15 @@
+.btn-gray {
+  color: #fff;
+  background-color: var(--log-btn-color);
+  border-color: var(--log-btn-color);
+}
+
+.btn-gray:hover {
+  background-color: var(--header-main-color);
+  border-color: var(--header-main-color);
+}
+
+.btn-primary {
+  background-color: var(--header-main-color);
+  border-color: var(--header-main-color);
+}
