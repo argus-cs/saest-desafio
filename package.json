@@ -2,7 +2,7 @@
   "name": "saest-desafio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://argus-cs.github.io/desafio-saest",
+  "homepage": "http://argus-cs.github.io/saest-desafio",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "classnames": "^2.2.6",
