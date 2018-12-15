@@ -18,6 +18,7 @@ aluno: {
 
 ```
 outros usuários podem ser adicionado como alunos ao criar sua conta na tela de login, ou criar um usuário administrativo seguindo o link /cadastro-admin, que foi deixada desprotegida para facilitar a criação de administradores no sistema.
+[sem validações!]
 
 # SAEST Selections
 
